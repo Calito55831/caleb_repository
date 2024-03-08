@@ -1,0 +1,22 @@
+#!/bin/bash
+
+# Echo the value of the HOME variable
+echo "HOME: $HOME (User's home directory)"
+
+# Echo the value of the USER variable
+echo "USER: $USER (Username of the current user)"
+
+# Echo the value of the PATH variable
+echo "PATH: $PATH (Search path for executable files)"
+
+# Echo the value of the SHELL variable
+echo "SHELL: $SHELL (Path to the default shell)"
+
+# Echo the value of the LANG variable
+echo "LANG: $LANG (Current system language)"
+
+# Echo the value of the TERM variable
+echo "TERM: $TERM (Terminal type)"
+
+# Echo the value of the PWD variable
+echo "PWD: $PWD (Current working directory)"
